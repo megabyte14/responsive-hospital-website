@@ -1,2 +1,24 @@
-# responsive-hospital-website
-Responsive hospital landing page built with HTML, CSS and Bootstrap 5.
+# Responsive Hospital Website
+
+A modern and responsive hospital landing page built using HTML, CSS, Bootstrap 5, and Font Awesome.
+
+## Features
+
+- Responsive design
+- Hero section
+- Featured services
+- Doctor search section
+- Statistics counters
+- Hover animations
+- Modern footer
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Bootstrap 5
+- Font Awesome
+
+## Purpose
+
+This project was built to practice frontend web development concepts including responsive layouts, Bootstrap grids, Flexbox, and modern UI design.
